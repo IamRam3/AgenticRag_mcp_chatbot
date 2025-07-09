@@ -1,0 +1,13 @@
+# requirements.txt
+
+streamlit
+openai
+sentence-transformers
+faiss-cpu
+python-docx
+python-pptx
+pymupdf
+pandas
+numpy
+groq
+docx
