@@ -1,5 +1,3 @@
-# AgenticRag_mcp_chatbot# README.md
-
 # 🧠 Agentic RAG Chatbot with Model Context Protocol (MCP)
 
 This project implements an agent-based Retrieval-Augmented Generation (RAG) chatbot that can answer questions from uploaded documents of various formats (PDF, DOCX, PPTX, CSV, TXT). Agents communicate using a structured message format called Model Context Protocol (MCP).
