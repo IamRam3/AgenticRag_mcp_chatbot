@@ -43,11 +43,8 @@ uv add -r requirements.txt
 
 3. **Set Groq API Key**
 
-   
-Create an .env file with 
-```
-GROQ_API_KEY = "place_your_groq_api_key_here".
-```
+Place your Groq api key in **.env** file
+
 
 4. **Run the App**
 ```bash
