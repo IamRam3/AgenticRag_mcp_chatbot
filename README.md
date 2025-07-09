@@ -38,7 +38,7 @@ cd agentic-rag-chatbot
 
 2. **Install Dependencies**
 ```bash
-pip install -r requirements.txt
+uv add -r requirements.txt
 ```
 
 3. **Set Groq API Key**
@@ -66,7 +66,8 @@ streamlit run main.py
 ---
 
 ## 📌 Tech Stack
-- **LLM**: OpenAI GPT-3.5
+- **Inferencing**: Groq
+- **LLM Model**: llama3-8b-8192
 - **Embeddings**: Sentence Transformers (MiniLM)
 - **Vector DB**: FAISS
 - **UI**: Streamlit
