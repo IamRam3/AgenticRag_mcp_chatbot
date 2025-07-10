@@ -4,7 +4,7 @@ This project implements an agent-based Retrieval-Augmented Generation (RAG) chat
 
 ---
 
-## Demo video
+## Demo & Explanation video
 [Click to watch the demo](https://drive.google.com/file/d/1Fsb5nhLsW7LGE6OW207jwTmBE5JD0ndw/view?usp=sharing)
 
 ---
