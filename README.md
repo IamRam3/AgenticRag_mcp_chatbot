@@ -32,7 +32,7 @@ This project implements an agent-based Retrieval-Augmented Generation (RAG) chat
 
 1. **Clone the Repository**
 ```bash
-git clone https://github.com/your-username/agentic-rag-chatbot.git
+git clone https://github.com/IamRam3/AgenticRag_mcp_chatbot.git
 cd agentic-rag-chatbot
 ```
 
